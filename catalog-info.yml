@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: qriousjs-project
+  description: [CHANGE_THIS] A project that was scaffolded with Qrious.js.
+  labels:
+    example-project.com/client: example-client
+    example-project.com/type: component
+  tags:
+    - nextjs
+    - typescript
+    - ssr
+spec:
+  owner: guests
+  lifecycle: experimental
+  system: experimental-component
