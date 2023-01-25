@@ -4,7 +4,7 @@ kind: Template
 metadata:
   name: v1beta3-demo
   title: Qrious.js Project Scaffolder Template
-  description: scaffolder v1beta3 template demo
+  description: I am the template
 spec:
   owner: user:guest
   type: service
