@@ -3,10 +3,10 @@ kind: Template
 # some metadata about the template itself
 metadata:
   name: v1beta3-demo
-  title: Qrious.js Template
+  title: Qrious.js Project Scaffolder Template
   description: scaffolder v1beta3 template demo
 spec:
-  owner: backstage/techdocs-core
+  owner: user:guest
   type: service
 
   # these are the steps which are rendered in the frontend with the form input
